@@ -334,7 +334,7 @@ img {
             position: absolute;
             top: 2px;
             left: 2px;
-            background-image: url(../img/espana.png);
+            background-image: url(/portafolio_guia/assets/img/espana.png);
             background-size: cover;
             background-repeat: no-repeat;
             border-radius: 50%;
@@ -351,7 +351,7 @@ img {
             &::after {
               left: 40px;
               transform: translateX(-100%);
-              background-image: url(../img/reino-unido.png)
+              background-image: url(/portafolio_guia/assets/img/reino-unido.png)
             }
           }
         }

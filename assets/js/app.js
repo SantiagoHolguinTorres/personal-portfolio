@@ -5,7 +5,7 @@ function idioma(){
 
     let id = check.checked;
     if(id=== true){
-        location.href = "assets/english/index.html";
+        location.href = "/portafolio_guia/index-en.html";
     }else {
         location.href = "/portafolio_guia/index.html";
     }   
